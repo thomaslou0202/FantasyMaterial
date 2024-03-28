@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "fantasymaterials:titanium_nugget"
+    }
+  },
+  "result": {
+    "item": "fantasymaterials:titanium_ingot"
+  }
+}

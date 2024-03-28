@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:nuggets/titanium"
+  },
+  "result": {
+    "fluid": "fantasymaterials:molten_titanium",
+    "amount": 16
+  },
+  "temperature": 2100,
+  "time": 25,
+  "conditions": [
+      {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+      }
+  ]
+}

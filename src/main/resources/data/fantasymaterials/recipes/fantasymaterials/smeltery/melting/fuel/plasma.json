@@ -1,0 +1,15 @@
+{
+  "type": "tconstruct:melting_fuel",
+  "fluid": {
+    "name": "fantasymaterials:plasma",
+    "amount": 50
+  },
+  "duration": 100,
+  "temperature": 3500,
+  "conditions": [
+      {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+      }
+  ]
+}

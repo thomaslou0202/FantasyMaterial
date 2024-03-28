@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "fantasymaterials:molten_thounite",
+    "amount": 144
+  },
+  "temperature": 3250,
+  "output": "fantasymaterials:thounite"
+}

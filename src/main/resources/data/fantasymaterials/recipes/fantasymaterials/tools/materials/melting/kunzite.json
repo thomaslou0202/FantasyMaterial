@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "fantasymaterials:kunzite",
+  "temperature": 1500,
+  "result": {
+    "fluid": "fantasymaterials:molten_kunzite",
+    "amount": 144
+  }
+}

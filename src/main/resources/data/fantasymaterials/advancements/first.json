@@ -1,0 +1,36 @@
+{
+    "display": {
+      "icon": {
+        "item": "fantasymaterials:uvarovite_ingot"
+      },
+      "title": {
+        "translate": "advancements.fantasymaterials.first.title"
+      },
+      "description": {
+        "translate": "advancements.fantasymaterials.first.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent":"fantasymaterials:welcome",
+    "criteria": {
+      "enter": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "fantasymaterials:uvarovite_ingot",
+                "fantasymaterials:uvarovite_dust",
+                "fantasymaterials:uvarovite_ore",
+                "fantasymaterials:uvarovite_crushed",
+                "fantasymaterials:deepslate_uvarovite_ore"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "fantasymaterials:thounite",
+  "temperature": 3100,
+  "result": {
+    "fluid": "fantasymaterials:molten_thounite",
+    "amount": 144
+  }
+}

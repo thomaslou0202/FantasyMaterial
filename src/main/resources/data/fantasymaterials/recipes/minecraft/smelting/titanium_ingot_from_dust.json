@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "fantasymaterials:ilmenite_dust"
+  },
+  "result": "fantasymaterials:titanium_ingot",
+  "experience": 0.0,
+  "cookingtime": 200
+}

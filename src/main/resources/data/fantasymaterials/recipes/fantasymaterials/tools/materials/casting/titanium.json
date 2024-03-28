@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "fantasymaterials:molten_titanium",
+    "amount": 144
+  },
+  "temperature": 2100,
+  "output": "fantasymaterials:titanium"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fantasymaterials:lonsdaleite_block"
+    }
+  ],
+  "result": {
+    "item": "fantasymaterials:lonsdaleite_ingot",
+    "count": 9
+  }
+}

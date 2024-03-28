@@ -1,0 +1,22 @@
+{
+	"modifier.fantasymaterials": {
+		"venomous": "#287d32",
+		"life_steal": "#CF6284",
+		"impurity": "#45517A",
+		"unfade": "#C2DDED",
+		"nether_crushing": "#B7C3DE",
+		"luxury": "#D4A7FC",
+		"astral_speed": "#FF3222",
+		"electrifying": "#FBBE53"
+	},
+	"material.fantasymaterials": {
+		"uvarovite": "#30D513",
+		"kunzite": "#CF6284",
+		"titanium": "#45517A",
+		"titanium_alloy": "#C2DDED",
+		"stibnite": "#5D7791",
+		"lonsdaleite": "#D4A7FC",
+		"astrite": "#FF3222",
+		"thounite": "#FBBE53"
+	}
+}

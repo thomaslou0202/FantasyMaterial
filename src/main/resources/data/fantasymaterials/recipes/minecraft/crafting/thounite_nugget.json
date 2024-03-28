@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fantasymaterials:thounite_ingot"
+    }
+  ],
+  "result": {
+    "item": "fantasymaterials:thounite_nugget",
+    "count": 9
+  }
+}

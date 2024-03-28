@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fantasymaterials:astrite_block"
+    }
+  ],
+  "result": {
+    "item": "fantasymaterials:astrite_ingot",
+    "count": 9
+  }
+}

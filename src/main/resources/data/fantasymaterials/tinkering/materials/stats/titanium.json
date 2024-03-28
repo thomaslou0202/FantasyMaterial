@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "tconstruct:extra": {
+      "durability": 400
+    },
+    "tconstruct:handle": {
+      "durability": 1.0,
+      "miningSpeed": 1.1,
+      "attackSpeed": 1.0,
+      "attackDamage": 1.1
+    },
+    "tconstruct:head": {
+      "durability": 2100,
+      "miningSpeed": 11.0,
+      "harvestTier": "fantasymaterials:titanium_tier",
+      "attack": 7.0
+    }
+  }
+}

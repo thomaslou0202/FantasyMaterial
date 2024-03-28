@@ -1,0 +1,30 @@
+{
+    "display": {
+      "icon": {
+        "item": "fantasymaterials:scorchingblood_bucket"
+      },
+      "title": {
+        "translate": "advancements.fantasymaterials.scorchingblood.title"
+      },
+      "description": {
+        "translate": "advancements.fantasymaterials.scorchingblood.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent":"fantasymaterials:bloodlava",
+    "criteria": {
+      "enter": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "nbt":"{tank:{FluidName:\"fantasymaterials:scorching_blood\"}}"
+            }
+          ]
+        }
+      }
+    }
+  }

@@ -1,0 +1,30 @@
+{
+    "display": {
+      "icon": {
+        "item": "fantasymaterials:plasma_bucket"
+      },
+      "title": {
+        "translate": "advancements.fantasymaterials.ultrafuel.title"
+      },
+      "description": {
+        "translate": "advancements.fantasymaterials.ultrafuel.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent":"fantasymaterials:scorchingblood",
+    "criteria": {
+      "enter": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "nbt":"{tank:{FluidName:\"fantasymaterials:plasma\"}}"
+            }
+          ]
+        }
+      }
+    }
+  }

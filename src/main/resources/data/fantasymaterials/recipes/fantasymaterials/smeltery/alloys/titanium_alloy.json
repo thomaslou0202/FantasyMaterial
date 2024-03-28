@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "fantasymaterials:molten_titanium",
+      "amount": 288
+    },
+    {
+      "name": "tconstruct:molten_iron",
+      "amount": 144
+    }
+  ],
+  "result": {
+    "fluid": "fantasymaterials:molten_titanium_alloy",
+    "amount": 288
+  },
+  "temperature": 2500
+}

@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:ores/kunzite",
+		"#forge:ores/uvarovite",
+		"#forge:ores/stibnite",
+		"#forge:ores/astrite",
+		"#forge:ores/lonsdaleite",
+		"#forge:ores/titanium"
+	]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "fantasymaterials:astrite_crushed"
+  },
+  "result": "fantasymaterials:astrite_ingot",
+  "experience": 0.0,
+  "cookingtime": 200
+}

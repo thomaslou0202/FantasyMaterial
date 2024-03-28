@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ores/kunzite"
+  },
+  "result": {
+    "fluid": "fantasymaterials:molten_kunzite",
+    "amount": 288
+  },
+  "temperature": 1750,
+  "time": 100,
+  "conditions": [
+      {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+      }
+  ]
+}

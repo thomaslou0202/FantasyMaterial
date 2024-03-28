@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "fantasymaterials:astrite",
+  "temperature": 2500,
+  "result": {
+    "fluid": "fantasymaterials:molten_astrite",
+    "amount": 144
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "tconstruct:extra": {
+      "durability": 200
+    },
+    "tconstruct:handle": {
+      "durability": 1.2,
+      "miningSpeed": 1.0,
+      "attackSpeed": 1.0,
+      "attackDamage": 1.0
+    },
+    "tconstruct:head": {
+      "durability": 1450,
+      "miningSpeed": 10.0,
+      "harvestTier": "fantasymaterials:uvarovite_tier",
+      "attack": 6.0
+    }
+  }
+}

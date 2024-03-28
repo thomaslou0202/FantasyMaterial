@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "fantasymaterials:stibnite_dust"
+  },
+  "result": "fantasymaterials:stibnite_ingot",
+  "experience": 0.0,
+  "cookingtime": 200
+}

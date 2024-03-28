@@ -1,0 +1,36 @@
+{
+    "display": {
+      "icon": {
+        "item": "fantasymaterials:kunzite_ingot"
+      },
+      "title": {
+        "translate": "advancements.fantasymaterials.pink.title"
+      },
+      "description": {
+        "translate": "advancements.fantasymaterials.pink.description"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent":"fantasymaterials:first",
+    "criteria": {
+      "enter": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "fantasymaterials:kunzite_ingot",
+                "fantasymaterials:kunzite_dust",
+                "fantasymaterials:kunzite_ore",
+                "fantasymaterials:kunzite_crushed",
+                "fantasymaterials:deepslate_kunzite_ore"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

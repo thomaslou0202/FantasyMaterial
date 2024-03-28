@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fantasymaterials:titanium_alloy_ingot"
+    }
+  ],
+  "result": {
+    "item": "fantasymaterials:titanium_alloy_nugget",
+    "count": 9
+  }
+}

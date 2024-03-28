@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "fantasymaterials:thounite_ingot"
+    },
+    "title": {
+      "translate": "advancements.fantasymaterials.thounite.title"
+    },
+    "description": {
+      "translate": "advancements.fantasymaterials.thounite.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent":"fantasymaterials:endore",
+  "criteria": {
+    "enter": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "nbt": "{Material:\"fantasymaterials:thounite\"}"
+          }
+        ]
+      }
+    }
+  }
+}

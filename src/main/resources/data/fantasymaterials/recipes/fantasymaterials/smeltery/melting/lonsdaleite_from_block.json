@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:storage_blocks/lonsdaleite"
+  },
+  "result": {
+    "fluid": "fantasymaterials:molten_lonsdaleite",
+    "amount": 1296
+  },
+  "temperature": 2750,
+  "time": 200,
+  "conditions": [
+      {
+          "type": "forge:mod_loaded",
+          "modid": "tconstruct"
+      }
+  ]
+}

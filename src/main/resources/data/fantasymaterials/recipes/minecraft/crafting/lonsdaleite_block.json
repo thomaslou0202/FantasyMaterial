@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "fantasymaterials:lonsdaleite"
+    }
+  },
+  "result": {
+    "item": "fantasymaterials:lonsdaleite_block"
+  }
+}

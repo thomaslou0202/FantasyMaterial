@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "fantasymaterials:kunzite_dust"
+  },
+  "result": "fantasymaterials:kunzite_ingot",
+  "experience": 0.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,32 @@
+
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+[[mods]]
+modId="fantasymaterials"
+version="${1.18.2-0.0.1.0}"
+displayName="FantasyMaterials"
+logoFile="logo.png"
+credits="Thanks ianm1647 for creating Nature's Mineral"
+authors="CircularRatio"
+description='''
+FantasyMaterials is a spritual successor of Nature's Minerals by ianm1647.
+It adds some minerals and tool materials to the game, give it an extra flavor.
+
+幻想材料是ianm1647的Nature's Minerals的精神續作
+他為遊戲新增了新的匠魂礦物、匠魂燃料和匠魂工具材料 諸如千年、等離子電漿等
+'''
+
+[[dependencies.fantasymaterials]] 
+    modId="forge" 
+    mandatory=true 
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.fantasymaterials]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
+    

@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:dusts/astrite",
+		"#forge:dusts/kunzite",
+		"#forge:dusts/stibnite",
+		"#forge:dusts/thounite",
+		"#forge:dusts/titanium",
+		"#forge:dusts/uvarovite"
+	]
+}

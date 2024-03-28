@@ -1,0 +1,23 @@
+{
+    "replace": false,
+    "values":[
+        "fantasymaterials:uvarovite_ore",
+        "fantasymaterials:kunzite_ore",
+        "fantasymaterials:ilmenite_ore",
+        "fantasymaterials:stibnite_ore",
+        "fantasymaterials:lonsdaleite_ore",
+        "fantasymaterials:astrite_ore",
+        "fantasymaterials:uvarovite_block",
+        "fantasymaterials:kunzite_block",
+        "fantasymaterials:titanium_block",
+        "fantasymaterials:titanium_alloy_block",
+        "fantasymaterials:stibnite_block",
+        "fantasymaterials:lonsdaleite_block",
+        "fantasymaterials:astrite_block",
+        "fantasymaterials:thounite_block",
+        "fantasymaterials:deepslate_uvarovite_ore",
+        "fantasymaterials:deepslate_ilmenite_ore",
+        "fantasymaterials:deepslate_kunzite_ore",
+        "fantasymaterials:deepslate_lonsdaleite_ore"
+    ]
+}

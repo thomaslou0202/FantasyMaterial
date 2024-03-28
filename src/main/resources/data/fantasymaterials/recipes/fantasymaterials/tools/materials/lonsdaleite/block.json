@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:material",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:storage_blocks/lonsdaleite",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/lonsdaleite"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "fantasymaterials:lonsdaleite",
+  "leftover": {
+    "tag": "forge:ingots/lonsdaleite"
+  }
+}

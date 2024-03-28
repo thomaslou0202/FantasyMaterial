@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "fantasymaterials:uvarovite_crushed",
+    "fantasymaterials:kunzite_crushed",
+    "fantasymaterials:stibnite_crushed",
+    "fantasymaterials:astrite_crushed",
+    "fantasymaterials:thounite_crushed",
+    "fantasymaterials:ilmenite_crushed"
+  ]
+}

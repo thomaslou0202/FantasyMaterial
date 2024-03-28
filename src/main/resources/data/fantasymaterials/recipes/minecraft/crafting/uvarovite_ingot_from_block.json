@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":[
+      {
+        "item":"fantasymaterials:uvarovite_block"
+      }
+    ],
+    "result": {
+      "item": "fantasymaterials:uvarovite_ingot",
+      "count":9
+    }
+  }

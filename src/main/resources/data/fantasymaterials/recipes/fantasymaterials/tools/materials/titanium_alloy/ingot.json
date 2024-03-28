@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:material",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ingots/titanium_alloy",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/titanium_alloy"
+  },
+  "value": 1,
+  "needed": 1,
+  "material": "fantasymaterials:titanium_alloy"
+}

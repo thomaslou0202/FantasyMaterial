@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:material",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:storage_blocks/titanium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:storage_blocks/titanium"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "fantasymaterials:titanium",
+  "leftover": {
+    "tag": "forge:ingots/titanium"
+  }
+}

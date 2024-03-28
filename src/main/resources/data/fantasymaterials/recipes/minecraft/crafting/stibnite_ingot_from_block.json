@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fantasymaterials:stibnite_block"
+    }
+  ],
+  "result": {
+    "item": "fantasymaterials:stibnite_ingot",
+    "count": 9
+  }
+}

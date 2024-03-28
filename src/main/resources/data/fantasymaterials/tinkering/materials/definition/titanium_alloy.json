@@ -1,0 +1,8 @@
+{
+	"fluid":"fantasymaterials:molten_titanium_alloy",
+  "craftable": false,
+  "tier": 4,
+  "sortOrder": 10,
+  "textColor": "#c2dded",
+  "hidden": false
+}
